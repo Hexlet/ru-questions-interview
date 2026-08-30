@@ -49,6 +49,7 @@
 * [Аналитик данных](./questions/data-analytics.md)
 * [Фронтенд-разработчик](./questions/frontend.md)
 * [Java-разработчик](./questions/java.md)
+* [Бэкенд-разработчик на Golang](./questions/golang.md)
 * [Бэкенд-разработчик на Nodejs](./questions/nodejs.md)
 * [Бэкенд-Разработчик на Python](./questions/python.md)
 * [Ручной тестировщик](./questions/manual-qa.md)
